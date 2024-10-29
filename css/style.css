@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 1.2em;
+    font-family: "Old Standard TT", serif;
+}
+body {
+    background-color: rgb(105, 103, 100);
+}
+
+header{
+    background-color: rgb(105, 103, 100);
+    text-align: center;
+    padding: 20px 0;
+    
+}
+footer{
+    background-color: rgb(87, 85, 82);
+    padding: 10px 50px;
+}
+.about {
+    background-color: rgb(105, 103, 100);
+    padding-right: 50px;
+    padding-left: 50px;
+
+}
+h2{
+    text-align: center;
+    font-size: 1.25rem;
+    color:rgb(17, 16, 14);
+    text-transform: uppercase;
+    text-decoration: double;
+}
+p{
+    font-size: 1rem;
+}
+.avatar {
+    display: block;
+    margin: 0 auto;
+}
+.articles {
+    padding: 20px 50px;
+}
+q{
+    font-family: cursive;
+}
+dt{
+    font-family: sans-serif;
+}
+dd{
+    font-family: cursive; 
+}
+a{
+    color: black;
+}
+a:link{
+    text-decoration: none;
+    color: rgb(131, 118, 100);
+}
+a:focus {
+    color: rgb(7, 7, 14);
+}
+a:hover{
+    color: aliceblue;
+}
+.linux{
+    display: block;
+    margin: 0 auto;
+    border-radius: 20%;
+}
